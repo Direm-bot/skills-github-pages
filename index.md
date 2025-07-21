@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome
 ---
+
+# Trying to learn github pages.
